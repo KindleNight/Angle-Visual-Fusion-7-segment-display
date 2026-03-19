@@ -1,0 +1,14 @@
+path: 7-segment-display
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 11
+names: ['.', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+
+#roboflow:
+#  workspace: bhautik-pithadiya
+#  project: 7-segment-display-gxhnj
+#  version: 5
+#  license: Public Domain
+#  url: https://universe.roboflow.com/bhautik-pithadiya/7-segment-display-gxhnj/dataset/5
